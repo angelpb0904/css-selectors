@@ -1,10 +1,6 @@
-h1 {
-    font-size: 120%;
+/* El caracter # seguido por el ID navigation es el selector*/
+#navigation {
+    border: 1px solid black;
+    padding: 40px;
     }
-    /*
-    Los selectores son h1 y p.
-    El ; al final de una propiedad es obligatorio.
-    */
-    p {
-    font-size: 90%;
-    }
+    
