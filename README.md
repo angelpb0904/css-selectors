@@ -7,3 +7,6 @@
 **Selector por ID** => esto ubica el id para darle el estilo que sea especifico.
 
 **Selectores descendientes** => estos miran las coincidencias entre los atributos para aplicar el mismo estilo. 
+
+**Selector Universal** => este se representa por un asterisco, y quiere decir que aplicara el estilo a todos los elementos.
+
