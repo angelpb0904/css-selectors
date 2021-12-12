@@ -1,9 +1,8 @@
-/*Tomamos los elementos "a" que se encuentran dentro de los elementos "li" */
-li a {
+div > strong {
     text-decoration: none;
     }
     
-    <li><a href="http://CSScookbook.com">Apples</a></li>
-    <li><a href="http://CSScookbook.com">Bananas</a></li>
-    <li><a href="http://CSScookbook.com">Cherries</a></li>
-    
+    <div>
+    However, this <strong>strong</strong> is the child of div.
+    Therefore, it receives the style dictated in the CSS rule.
+    </div>
