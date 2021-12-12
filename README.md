@@ -4,4 +4,6 @@
 
 **Selectores por nombre de etiqueta** => estos seleccionas a todos los tipos de elementos `HTML` que tengan los paréntesis, y lo afectan taran a todos en la pagina. Puede ser que afecten a todos lo elementos `h1`. 
 
-**Selector por ID** => esto ubica el id para darle el estilo que sea especifico. 
+**Selector por ID** => esto ubica el id para darle el estilo que sea especifico.
+
+**Selectores descendientes** => estos miran las coincidencias entre los atributos para aplicar el mismo estilo. 

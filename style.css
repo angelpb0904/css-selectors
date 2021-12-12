@@ -1,6 +1,9 @@
-/* El caracter # seguido por el ID navigation es el selector*/
-#navigation {
-    border: 1px solid black;
-    padding: 40px;
+/*Tomamos los elementos "a" que se encuentran dentro de los elementos "li" */
+li a {
+    text-decoration: none;
     }
+    
+    <li><a href="http://CSScookbook.com">Apples</a></li>
+    <li><a href="http://CSScookbook.com">Bananas</a></li>
+    <li><a href="http://CSScookbook.com">Cherries</a></li>
     
