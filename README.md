@@ -13,3 +13,8 @@
 **Selectores Padre e Hijo =>** Este selector se utiliza para darle estilo a un hijo de un elemento.
 
 **Selectores de "hermano + hermano" =>** estos selectores solo aplican los estilos a los elementos que estén siguientes de el.
+
+**Selectores por atributos =>** estos le dan estilo a los elementos que compartan características similares.
+
+
+
