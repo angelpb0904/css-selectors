@@ -16,5 +16,5 @@
 
 **Selectores por atributos =>** estos le dan estilo a los elementos que compartan características similares.
 
-
+**Selectores por Clase =>** el selector aquí es el punto, y lo que busca es darle un estilo al atributo `class`.
 
